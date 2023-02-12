@@ -1,6 +1,8 @@
 # NLP Spam Detection App
 This app is a simple tool to classify text data as either spam or not spam (also known as "ham"). It uses natural language processing (NLP) techniques to analyze the text and make a prediction.
 
+![spam-ham](https://miro.medium.com/max/828/1*nBgCTU_hAVG00eYkcRf6Mw.webp)
+
 ## How to use the app
 To use the app, simply enter the text that you want to classify into the input field and click the "Classify" button. The app will then analyze the text and provide a prediction of whether it is spam or ham.
 
